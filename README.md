@@ -1,4 +1,4 @@
-Speedtyping - A typing program that calculates your typing speed
+###Speedtyping - A typing program that calculates your typing speed###
 
 This is a quick speedtyping program made by me (teig)!
 
