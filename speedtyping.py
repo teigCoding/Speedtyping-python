@@ -72,7 +72,6 @@ window.title("Speed Type")
 
 window.rowconfigure(0, minsize=400, weight=1)
 window.columnconfigure(1, minsize=400, weight=1)
-#frm_textflds = tk.Frame(window)
 txt_edit = tk.Text(window)
 lbl_showText = tk.Label(window,wraplength=550,font=("Arial", 10))
 
